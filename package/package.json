@@ -1,0 +1,22 @@
+{
+  "name": "binary-search-tiara",
+  "version": "1.0.0",
+  "description": "a simple implementation of binary search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiarasabrinaa/npm-binary-search.git"
+  },
+  "keywords": [
+    "binary"
+  ],
+  "author": "tiara sabrina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiarasabrinaa/npm-binary-search/issues"
+  },
+  "homepage": "https://github.com/tiarasabrinaa/npm-binary-search#readme"
+}
